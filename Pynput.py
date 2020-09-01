@@ -23,5 +23,4 @@ keyboard.release(Key.enter)
 #keyboard.release('abcdefg')
 
 #keyboard.press(Key.cmd)
-#keyboard.relase(Key.cmd)
 
